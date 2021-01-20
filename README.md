@@ -7,4 +7,4 @@ The game has conditions for winning and losing.
 When the game is over, it asks if the player wants to play again.
 
 # Instructions
-To get started, open AdventureGame.py in your Shell.
+To get started, open adventure_game_nadia.py in your Shell.
